@@ -1,0 +1,90 @@
+h1{
+    font-size: 50px;
+    color: rgb(53, 53, 53);
+};
+h2{
+    font-size: 40px;
+    color: gray;
+};
+.Healthy{
+    display: flex;
+};
+.Person{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+};
+#person{
+    height: 400px;
+    padding-left: 200px;
+    padding-top: 50px;
+};
+.xyz{
+    padding-left: 300px;
+    padding-right: 250px;
+    padding-top: 75px;
+};
+p{
+    color: gray;
+};
+.half-width{
+    padding: 10%;
+    width: 50%;
+};
+#group{
+    width: 100%;
+};
+.orange-color{
+    color: orange;
+};
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 20px;
+};
+.food-recipe{
+    text-align: center;
+};
+.recipe{
+    display: inline;
+    text-align: center;
+    display: flex;
+    
+};
+.first{
+    border: 5px solid wheat;
+    border-radius: 10px; 
+    box-shadow: 5px 5px 5px 5px lightgray;
+    margin-left: 200px;
+    margin-right: 20px;
+};
+.second{
+    border: 5px solid wheat;
+    border-radius: 10px; 
+    box-shadow: 5px 5px 5px 5px lightgray;
+    margin-right: 30px;
+};
+.third{
+    border: 5px solid wheat;
+    border-radius: 10px; 
+    box-shadow: 5px 5px 5px 5px lightgray;
+    margin-right: 30px;
+};
+.food{
+    height: 150px;
+    width: 200px;
+};
+.orange{
+    color: orange;
+};
+footer{
+    background-color: black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+};
+footer p{
+    color: white;
+    text-align: center;
+}
